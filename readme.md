@@ -1,7 +1,7 @@
 # Hello, I'm Shubham Gupta 👋
 
 ## 🚀 About Me
-I'm a passionate Cloud Native developer with a deep interest in networking and systems.
+I'm a passionate Cloud Native developer interested in networking and systems.
 
 ## 🔧 My Skills
 - **Languages**: Go (Golang), Python, Bash (Shell Scripting)
@@ -17,9 +17,3 @@ I'm a passionate Cloud Native developer with a deep interest in networking and s
 
 ## 📫 How to reach me
 You can contact me on [LinkedIn](https://www.linkedin.com/in/shubham-gupta-8b1168244/), [Twitter](https://twitter.com/iamshubham1909) or shoot me an [email](iamshubhamgupta200@gmail.com)
-
-## 📊 Some of my Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-cmyk&layout=compact)](https://github.com/shubham-cmyk/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-cmyk&show_icons=true&count_private=true)
-
